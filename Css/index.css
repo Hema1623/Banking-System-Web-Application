@@ -1,0 +1,95 @@
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0; 
+}
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 70px;
+    background: white;
+    color: black;
+ }
+ #banner{
+     margin:0px auto;
+     padding: 150px 30px;
+ }
+ #customers {
+    text-align: center;
+    margin: 0px auto;
+    padding: 150px 70px;    
+    background: rgb(193, 255, 198);    
+       
+ }
+.btn1{
+    padding: 30px 30px 30px 30px;
+    position: relative;  
+    background-color: rgb(20, 20, 158);
+    border:none;
+    color:white;
+    border-radius:0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size:20px;
+    border-radius: 10px;
+    box-shadow:3px 5px 6px rgb(165, 165, 165);
+}
+.btn2{
+    margin: 0px 50px 0px 50px;
+    padding: 30px 30px 30px 30px;
+    position: relative;  
+    background-color: rgb(20, 20, 158);
+    border:none;
+    color:white;
+    border-radius:0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size:20px;
+    border-radius: 10px;
+    box-shadow:3px 5px 6px rgb(165, 165, 165);
+}
+.btn3{
+    padding: 30px 30px 30px 30px;
+    position: relative;  
+    background-color: rgb(20, 20, 158);
+    border:none;
+    color:white;
+    border-radius:0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size:20px;
+    border-radius: 10px;
+    box-shadow:3px 5px 6px rgb(165, 165, 165);
+}
+.btn1:hover, .btn2:hover, .btn3:hover{   
+    background-color:rgb(60, 60, 243);
+    border:none;
+    color:white;
+   
+}
+.btn1:focus, .btn2:focus, .btn3:focus{   
+    background-color:rgb(60, 60, 243);    
+    color:white;
+    outline: none;
+}
+
+.footer {
+    background-color: rgb(176, 181, 248);;
+    margin: 0px auto;
+    padding: 20px 0px;
+ }
+.row-header {
+margin: 0px auto;
+padding: 0px 0px; }
+
+.row-content {
+margin: 0px auto;
+padding: 50px 0px 50px 0px;
+}
+
+
+.navbar-dark {
+    background-color: rgb(111, 120, 250); }
+
+
