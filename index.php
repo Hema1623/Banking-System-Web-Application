@@ -50,15 +50,13 @@
                 </div>                  
             </div>
         </div>
-    </header>
+    </header>  
     <div class="container">
         <div class="row row-content ">
-            <div class= "col-12 col-sm-12">
-                <div id="customers">
-                    <a href="#" style="text-decoration: none;"><button  class="btn1"> View Customers</button></a>
-                    <a href="#" style="text-decoration: none;"><button class="btn2"> Select Customers</button></a>
-                    <a href="#" style="text-decoration: none;"><button class="btn3"> Update Customers</button></a>
-                </div>
+            <div class= "col-12 col-sm-12">               
+                    <div id="customers">
+                        <a href= "./customer.php" style ="text-decoration: none;"><button class="btn1">View Customers</button></a>             
+                    </div>               
             </div>
         </div>
     </div>
